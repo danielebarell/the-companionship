@@ -5,7 +5,7 @@ Dialoga con alcuni personaggi, i consulenti che dovrebbero aiutarlo nella sua at
 In effetti il lettore non leggerà un dialogo, non avrà idea di chi sia il consulente ne cosa effettivamente dica se non attraverso Hurt, le reazioni di Hurt e le parole dette dal consulente che lui ripete. 
 L'obiettivo è unicamente su Hurt e il lettore potrebbe anche pensare che si tratta di monologhi.
 
-Gatto.
+#Gatto
 
 Hurt: Ciao, Dimmi pure.
 []
@@ -17,21 +17,64 @@ Non è veramente importante dopotutto.
 H: Anche per l'aspetto tu dici?
 []
 H: Ti ricordo un gatto? Veramente?
-H accenna a un sorriso sornione.
+::::::::: H accenna a un sorriso sornione.
 []
 H: Anche un tuo vecchio amico, non solo il gatto.
-H allarga il sorriso e annuisce affabile.
+::::::::: H allarga il sorriso e annuisce affabile.
 []
 H: Ah.
 E te lo sei scopato.
 Però.
 E siete finiti a letto cioè.
-H continua ad annuire e sorridere cortese eppure affiora un senso di allarme.
+::::::::: H continua ad annuire e sorridere cortese però il viso è attraversato da una leggera tensione.
 []
 H: Bene.
-H distoglie lo sguardo dalla consulente e guarda i suoi appunti.
+:::::::: H distoglie lo sguardo dalla consulente e guarda i suoi appunti.
 Quindi, cosa mi proponi?
 Per questa stanza intendo.
+
+
+05/06/2020
+[eborR, proposta su Great Again]
+Hurt: Ah. Addirittura, 
+che sorpresa! E Lei come ci è arrivato qui?
+[]
+:::::::: H annuisce egli rivolge un sorriso di circostanza.
+[]
+Per la verità preferisco di no.
+Preferisco continuare a darLe del "Lei".
+::::::::: H si stringe nelle spalle.
+H: Come sta il suo amico Tiziano? Scrive ancora?
+[]
+>>>>>>> Analisi della proposta. Qualcosa che riguarda la proiezione del Rambo di Sylvester Stallone.
+Che H dice di non averlo visto.
+H non apprezza. [Inventati qualcosa che orienti la discussione sul punto successsivo] 
+>>>>>>> Episodio dito medio a S che dorme. L'interpretazione che ha dato eborR. La domanda provocatoria sulle Sardine. Le considerazioni su un uomo che dorme. L'invito a votare 'subito' S. 
+I cuoricini di approvazione dei suoi sostenitori: La violenza e l'aggressività hanno sempre qualcosa di seducente.
+Hurt. Ma certo, Lei difende a S. invece che alla ragazzina che a causa della sua impertinenza ha ricevuto diverse minacce. Minacce di stupro come da tipico sostenitore di S. - sovente anonimo.
+E questo perche?
+[]
+Credo proprio che Lei si senta molto più vicino a S invece che alla ragazzina o alle persone che si oppongono a questa specie politico. Nell'indifferenza un'affermazione un'azione o una persona valgono l'altra.
+[]
+Hurt si concentra sui suoi appunti.
+Avverte il tono provocatorio eborR ma non le parole.
+La voce da cantilenante cresce in veemenza.
+[]
+[]
+Mi scusi, non la seguo più.
+Ho appuntamento con il prossimo consulente. 
+Devo salutarla.
+
+[eborR su Remote]
+>>>> implementare e farsi i complimenti da solo senza verificare che le proprie risposte siano soddisfacenti.
+Essere sotto i fari della notorietà e non percepire la massa del proprio pubblico.
+
+
+
+
+
+
+
 
 
 
